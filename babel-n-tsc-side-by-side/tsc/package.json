@@ -1,0 +1,13 @@
+{
+  "name": "tsc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {},
+  "scripts": {
+    "start": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^3.3.3"
+  }
+}
